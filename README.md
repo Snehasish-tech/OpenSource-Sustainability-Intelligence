@@ -1,13 +1,8 @@
-<div align="center">
+
 
 # OpenSource Sustainability Intelligence (OSSI)
 
-<div align="center">
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 **A human‑centric platform to assess open‑source project health, maintainer workload, sustainability risk, and trust—so communities and companies can act before projects burn out.**
 
